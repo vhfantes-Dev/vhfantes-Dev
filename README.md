@@ -80,8 +80,15 @@ Gosto de criar interfaces funcionais, APIs performáticas e manter uma base de c
 
 # 💼 Experiência Profissional
 
+### **🟩 TRD — Associate Frontend Engineer — 2025 - 2026**
+**Duração:** Até o Momento  
+Atuação no desenvolvimento de aplicações mobile modernas, com foco em interfaces responsivas, integração com APIs REST, gerenciamento de estado e otimização de performance em aplicativos.  
+Stack: **React Native (TS)**
+
+---
+
 ### **🟩 Corsino Software House — Desenvolvedor Fullstack Pleno (Freelancer) — 2025**
-**Duração:** 1 Ano  
+**Duração:** 1 Ano(Novembro 2025)  
 Atuação no desenvolvimento de sistemas completos, incluindo frontend responsivo, criação de APIs REST, modelagem de banco de dados e configuração de servidores.  
 Stack: **React.js (TS)** • **NestJS** • **PostgreSQL** • **Docker**
 
