@@ -80,7 +80,7 @@ Gosto de criar interfaces funcionais, APIs performáticas e manter uma base de c
 
 # 💼 Experiência Profissional
 
-### **🟩 TRD — Associate Frontend Engineer — 2025 - 2026**
+### **🟩 TRD(KFC) — Associate Frontend Engineer — 2025 - 2026**
 **Duração:** Até o Momento  
 Atuação no desenvolvimento de aplicações mobile modernas, com foco em interfaces responsivas, integração com APIs REST, gerenciamento de estado e otimização de performance em aplicativos.  
 Stack: **React Native (TS)**
