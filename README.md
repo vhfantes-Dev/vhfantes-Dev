@@ -83,21 +83,21 @@ Gosto de criar interfaces funcionais, APIs performáticas e manter uma base de c
 ### **🟩 TRD(KFC) — Associate Frontend Engineer — 2025 - 2026**
 **Duração:** Até o Momento  
 Atuação no desenvolvimento de aplicações mobile modernas, com foco em interfaces responsivas, integração com APIs REST, gerenciamento de estado e otimização de performance em aplicativos.  
-Stack: **React Native (TS)**
+Stack: **React Native (TS)** • **NextJs**
 
 ---
 
 ### **🟩 Corsino Software House — Desenvolvedor Fullstack Pleno (Freelancer) — 2025**
 **Duração:** 1 Ano(Novembro 2025)  
 Atuação no desenvolvimento de sistemas completos, incluindo frontend responsivo, criação de APIs REST, modelagem de banco de dados e configuração de servidores.  
-Stack: **React.js (TS)** • **NestJS** • **PostgreSQL** • **Docker**
+Stack: **React.js (TS)** • **NestJS** • **PostgreSQL** • **Docker** • **PHP** • **Laravel**
 
 ---
 
 ### **🟩 VidBuy — Desenvolvedor Mobile Fullstack Pleno — 2025**
 **Duração:** 5 Meses  
 Desenvolvimento de novas funcionalidades, criação de telas com UI moderna, correções, estruturação de banco de dados, API REST, CI/CD e ambientes de produção.  
-Stack: **React Native (TSX)** • **React.js** • **Node.js** •  **NestJS** • **MySQL** • **CI/CD**
+Stack: **React Native (TSX)** • **React.js** • **Node.js** •  **NestJS** • **MySQL** • **CI/CD** • **PHP** • **Laravel**
 
 ---
 
