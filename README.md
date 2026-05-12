@@ -87,22 +87,22 @@ Stack: **React Native (TS)** • **NextJs**
 
 ---
 
-### **🟩 Corsino Software House — Desenvolvedor Fullstack Pleno (Freelancer) — 2025**
-**Duração:** 1 Ano(Novembro 2025)  
-Atuação no desenvolvimento de sistemas completos, incluindo frontend responsivo, criação de APIs REST, modelagem de banco de dados e configuração de servidores.  
-Stack: **React.js (TS)** • **NestJS** • **PostgreSQL** • **Docker** • **PHP** • **Laravel**
-
----
-
 ### **🟩 VidBuy — Desenvolvedor Mobile Fullstack Pleno — 2025**
-**Duração:** 5 Meses  
+**Duração:** 5 Meses(Abril 2025 - Setembro 2025)
 Desenvolvimento de novas funcionalidades, criação de telas com UI moderna, correções, estruturação de banco de dados, API REST, CI/CD e ambientes de produção.  
 Stack: **React Native (TSX)** • **React.js** • **Node.js** •  **NestJS** • **MySQL** • **CI/CD** • **PHP** • **Laravel**
 
 ---
 
+### **🟩 Corsino Software House — Desenvolvedor Fullstack Pleno (Freelancer) — 2024**
+**Duração:** 2 Anos(Janeiro 2024 - Dezembro 2025)  
+Atuação no desenvolvimento de sistemas completos, incluindo frontend responsivo, criação de APIs REST, modelagem de banco de dados e configuração de servidores.  
+Stack: **React.js (TS)** • **NestJS** • **PostgreSQL** • **Docker** • **PHP** • **Laravel**
+
+---
+
 ### **🟩 Global Data Gestão em Saúde — Desenvolvedor Junior — 2024**
-**Duração:** 6 Meses  
+**Duração:** 6 Meses(Abril 2024 - Setembro 2024) 
 Desenvolvimento e manutenção de funcionalidades, correção de bugs, consultas e alterações via banco de dados, e atualizações de dashboards no Power BI.  
 Stack: **PHP** • **JavaScript** • **MySQL** • **Power BI**
 
