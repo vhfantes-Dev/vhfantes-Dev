@@ -53,7 +53,7 @@ Gosto de criar interfaces funcionais, APIs performáticas e manter uma base de c
 
 ### ⚙️ **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,python,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,python,java,spring" />
 </p>
 
 ### 🗄️ **Banco de Dados**
